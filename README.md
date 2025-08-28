@@ -15,7 +15,9 @@ Set up environment variables:
 
 Create a .env file in the root directory and define the following variables:
 
+
 PORT = <port-number>
 MONGO_DB_URI = <mongodb-uri>
 JWT_SECRET = <jwt-secret>
 NODE_ENV = <node-env>
+
